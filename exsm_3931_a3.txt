@@ -1,0 +1,21 @@
+Pseudocode in the view of a hungry customer
+
+IF hungry customer see snacks: 
+
+THEN hungry customer put coins into the machine and select a snack
+
+IF machine owe customer money:
+THEN machine give the selected snack to customer and return the owed money
+
+ELSE machine give the selected snack to customer
+
+Pseudocode in the view of a machine owner
+
+WHILE True 
+
+Do check the machine:
+IF machine has things sold out
+THEN restock
+
+IF  coin storage is not empty
+THEN empty coin storage
